@@ -88,6 +88,6 @@ Streamlined interface for field personnel to complete forms, capture photos/atta
 
 ---
 
-## License
-
-This project is open-sourced software licensed under the [MIT License](LICENSE).
+## Proprietary & Ownership Notice
+Copyright (c) KDN Organization. All rights reserved.
+This software and its documentation are proprietary and confidential internal property of KDN Organization. Unauthorized copying, distribution, modification, or public disclosure of this repository or any of its contents is strictly prohibited.
