@@ -1,4 +1,4 @@
-# KEDEN Data System
+# KDN Data System
 
 A comprehensive platform for dynamic form management, field data collection, and automated Google Drive cloud synchronization.
 
@@ -6,7 +6,7 @@ A comprehensive platform for dynamic form management, field data collection, and
 
 ## Project Overview
 
-KEDEN Data System is a web application and backend system designed for field data collection via customizable dynamic forms. The platform handles the complete workflow: from form field design and mobile data entry with attachments, to supervisor review, status tracking, and exporting comprehensive reports.
+KDN Data System is a web application and backend system designed for field data collection via customizable dynamic forms. The platform handles the complete workflow: from form field design and mobile data entry with attachments, to supervisor review, status tracking, and exporting comprehensive reports.
 
 The system features an automated cloud storage engine that syncs images and attachments directly to Google Drive into structured folders organized by form and submission IDs.
 
